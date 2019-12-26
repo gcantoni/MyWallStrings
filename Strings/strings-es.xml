@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
 <resources>
     <string name="app_name">My Wall</string>
     <string name="welcome">Bienvenido a MyWall</string>
@@ -7,77 +9,120 @@
     <string name="save">Guardar</string>
     <string name="share">Compartír</string>
     <string name="wallpaper_saved">Fondo de pantalla guardado</string>
-    <string name="wallpaper_saved_description">El fondo de pantalla ha sido guardado correctamente</string>
+    <string name="wallpaper_saved_description">El fondo de pantalla ha sido guardado correctamente en /Pictures</string>
+    <string name="file_name" translatable="false">MyWall</string>
+    <string name="notifications">My Wall - Notificaciones</string>
 
-    <string name="tap_intro1">Maneja todo aqui</string>
-    <string name="tap_intro1_extended">Guarda, comparte y obten información acerca de tu fondo de pantalla</string>
-    <string name="tap_intro2">Apariencia</string>
-    <string name="tap_intro2_extended">Elige tu tema, efectos y animaciones</string>
+    <string name="tap_intro1">Guarda tu fondo de pantalla rápidamenteQuickly save your wallpaper</string>
+    <string name="tap_intro1_extended">Sin gastar tiempo</string>
+    <string name="tap_intro2">Ajustes</string>
+    <string name="tap_intro2_extended">Elige el tema, efectos, animaciones y mucho más!</string>
     <string name="tap_intro3">Información</string>
-    <string name="tap_intro3_extended">Descubre sobre MyWall y quien lo hizo</string>
+    <string name="tap_intro3_extended">Descubre más sobre MyWall y quién lo hizo</string>
 
+    <string name="settings">Ajustes</string>
+    <string name="settings_general">Ajustes Generales</string>
     <string name="appearance">Apariencia</string>
-    <string name="themes">Temas</string>
-    <string name="effects">Efectos</string>
-    <string name="effects_title">Gradiente</string>
-    <string name="effects_summary">Habilita una espectacular gradiente en la pantalla principal</string>
-    <string name="animations">Animaciones</string>
-    <string name="animations_title">Animacion de desvanecimiento</string>
-    <string name="animations_summary">Habilita animaciones de desvanecimiento para obtener una suave experiencia</string>
-    <string name="choose_theme">Elige un Tema</string>
+    <string name="themes">Tema</string>
+    <string name="effects_title">Efecto de gradienteGradient effect</string>
+    <string name="effects_summary">Activa una espectacular gradiente en la pantalla principal</string>
+    <string name="animations_title">Animaciones desvanecientes</string>
+    <string name="animations_summary">Habilita las animaciones desvanecientes para una suave experiencia</string>
+    <string name="estimation_title">Estimación del fondo de pantalla</string>
+    <string name="estimation_summary">Usa una estimación de fondo de pantalla para reducir la carga en memoria. El habilitar esta opción puede causar una perdida de datos del fondo de pantalla</string>
+    <string name="algorithm_title">Algortimo de paleta de muestras (β)</string>
+    <string name="algorithm_subtitle">Usa un algoritmo más rapido y exacto para generar la paleta de colores de tu fondo de pantalla</string>
+    <string name="gestures_title">compatibilidad con gestos</string>
+    <string name="gestures_subtitle">Evita toques no deseados causados por los gestos del sistema o de terceros</string>
+    <string name="snow_title">Nieve</string>
+    <string name="snow_summary">Habilita un efecto de nieve para una átmosfera de inviernoe</string>
+    <string name="choose_theme">Elíge un tema</string>
     <string name="light">Claro</string>
-    <string name="dark">Oscuro-</string>
+    <string name="dark">Oscuro</string>
 
+    <string name="filters_title">Filtros</string>
+    <string name="filters_applying">Aplicando el filtro&#8230;</string>
+    <string name="filters_gray_scale">Filtro blanco & negro</string>
+    <string name="filters_bit_offset">Offset filter</string>
+
+    <string name="lato" translatable="false">Lato-Regular.ttf</string>
+    <string name="lato_bold" translatable="false">Lato-Bold.ttf</string>
     <string name="stats">Estadisticas</string>
     <string name="stats_wallpaper">Datos del fondo de pantalla</string>
     <string name="stats_color">Colores</string>
-    <string name="gaussian_blur">Difuminacion</string>
-    <string name="blur_intensity">Intensidad: 1</string>
-    <string name="blur_intensity2">Intensidad: </string>
     <string name="stats_dominant_color_title">Color dominante</string>
     <string name="stats_dominant_color_subtitle" formatted="true">%1$s</string>
     <string name="stats_dominant_color0_title">Color vibrante claro</string>
-    <string name="stats_dominant_color0_subtitle" formatted="true">Hex</string>
+    <string name="stats_dominant_color0_subtitle" formatted="true">%1$s</string>
     <string name="stats_dominant_color1_title">Color vibrante</string>
-    <string name="stats_dominant_color1_subtitle" formatted="true">Hex</string>
+    <string name="stats_dominant_color1_subtitle" formatted="true">%1$s</string>
     <string name="stats_dominant_color2_title">Color vibrante oscuro</string>
-    <string name="stats_dominant_color2_subtitle">Hex</string>
-    <string name="stats_dominant_color3_title">Color debil claro</string>
-    <string name="stats_dominant_color3_subtitle">Hex</string>
-    <string name="stats_dominant_color4_title">Color debil</string>
-    <string name="stats_dominant_color4_subtitle">Hex</string>
-    <string name="stats_dominant_color5_title">Color debil oscuro</string>
-    <string name="stats_dominant_color5_subtitle">Hex</string>
-    <string name="stats_color_error">No disponible</string>
+    <string name="stats_dominant_color2_subtitle">%1$s</string>
+    <string name="stats_dominant_color3_title">Color apagado claro</string>
+    <string name="stats_dominant_color3_subtitle">%1$s</string>
+    <string name="stats_dominant_color4_title">Color apagado</string>
+    <string name="stats_dominant_color4_subtitle">%1$s</string>
+    <string name="stats_dominant_color5_title">Color apagado oscuroDark muted color</string>
+    <string name="stats_dominant_color5_subtitle">%1$s</string>
+    <string name="stats_color_error">No Disponible</string>
+    <string name="stats_copy_success">Copiado en el portapapeles</string>
+    <string name="stats_intro1">Guarda los colores rápidamente</string>
+    <string name="stats_intro1_extended">Tocá en los círculos de colores para copiar el hexadecimal en el portapapeles</string>
+    <string name="hex_copied">Hexadecimal copied</string>
 
-    <string name="charts">Graficos</string>
+    <string name="charts">Gráficos y datos</string>
     <string name="error">"Algo salió mal!"</string>
-    <string name="open_pie_chart_error">Desafortunadamente el gráfico circular no esta disponible para este fondo de pantalla.\n\nRazón: MyWall no fue capaz de encontrar suficiente información en este fondo de pantalla.</string>
-    <string name="pie_chart">Grafico circular</string>
-    <string name="pie_chart_description">Mira como los colores claros y oscuros estan distribuidos en terminos de pixeles</string>
+    <string name="open_pie_chart_error">Desafortunadamente el gráfico circular no esta disponible para este fondo de pantalla.\n\nRazón: MyWall no fué capáz de encontrar suficiente información en este fondo de pantalla.</string>
+    <string name="pie_chart">Gráfico circular</string>
+    <string name="pie_chart_description">Mira como los colores claros y oscuros están distribuidos en terminos de pixeles</string>
+    <string name="export_data">Exportar paleta de colores</string>
+    <string name="export_data_description">Exporta tu paleta de colores rápidamente en un árchivo .csv</string>
 
-    <string name="about">Acerca de</string>
+    <string name="about">Ácerca</string>
+    <string name="blur">Difuminación</string>
+    <string name="gaussian_blur">Difuminación</string>
+    <string name="blur_intensity">Intensidad: 1</string>
+    <string name="blur_intensity2">Intensidad: </string>
 
-       <string name="general_information">Información general</string>
+    <string name="app_link" translatable="false">https://play.google.com/store/apps/details?id=it.folgore95.mywall</string>
+    <string name="website_link" translatable="false">https://giorgiocantoni.it/</string>
+    <string name="general_information">Información General</string>
     <string name="about_my_wall_title">Versión</string>
-    <string name="support_development">Aporta al desarollo</string>
+    <string name="support_development">Ayuda al desarrollo</string>
     <string name="about_rate_title">Califica</string>
-    <string name="about_rate_subtitle">Cuentale a los otros porque te gustó MyWall</string>
+    <string name="about_rate_subtitle">Cuéntale a los otros porqué te gustó MyWall</string>
     <string name="about_bug_title">Reporta errores</string>
-    <string name="about_bug_subtitle">Reporta errores o sugiere nuevas caracteristicas</string>
+    <string name="about_bug_subtitle">Reporta errores or sugiere nuevas características new features</string>
     <string name="bug_report_title" translatable="false">MyWall Bug Report</string>
     <string name="about_author">Autór</string>
     <string name="about_author_title" translatable="false">Giorgio Cantoni</string>
     <string name="about_author_subtitle">Soy un estudiante y desarollador de Android. Estoy interesado en el desarollo de aplicaciones para Android y la automatización de autos.</string>
     <string name="about_changelog_new">What\'s new?</string>
+    <string name="about_changelog_new1" translatable="false">Themes</string>
+    <string name="about_changelog_new1_extended" translatable="false">Meeting Android 10, MyWall now supports a light and a dark theme. It can be set by you or it can follow the battery saver/system theme.</string>
+    <string name="about_changelog_new2" translatable="false">A brand new user interface</string>
+    <string name="about_changelog_new2_extended" translatable="false">Focused on avoiding issues with colors extracted from the wallpaper, the user interface is now static, faster and uses less memory.</string>
+    <string name="about_changelog_new3" translatable="false">Stats and charts</string>
+    <string name="about_changelog_new3_extended" translatable="false">Get the wallpaper colors with the corresponding hexadecimal and plot the distribution of light and dark colors in terms of pixel in a real-time graph.</string>
+    <string name="about_changelog_new4" translatable="false">Effects and animations</string>
+    <string name="about_changelog_new4_extended" translatable="false">Unique effects and animations for a completely smooth experience. They are available in appearance and can be enabled/disabled as desired.</string>
+
+
     <string name="about_website_title">Visita el sitio web</string>
 
     <string name="about_contributors">Contribuidores y traductores</string>
-    <string name="about_contributors1_subtitle">Soy un diseñador grafico de 23 años, creador de videos en YouTube y web que le gusta ser creativo, unico y simple.</string>
+    <string name="about_contributors_subtitle">Una lista de gente que ha contribuido al desarrollo o traducciones</string>
+    <string name="about_contributors1_title" translatable="false">Max Patchs</string>
+    <string name="about_contributors1_subtitle">User interface development \n\nI\'m a 23 years old graphics designer, web video maker and a youtuber love to be creative, unique and simple.</string>
+    <string name="about_contributors2_title" translatable="false">Ryosuke Takarushi</string>
+    <string name="about_contributors2_subtitle" translatable="false">Spanish translator \n\nAmateur Web Developer working on my spare time. Looking forward to translate some apps and sites.</string>
+    <string name="about_contributors3_title" translatable="false">Char G</string>
+    <string name="about_contributors3_subtitle" translatable="false">English translator \n\nGZR social media</string>
 
-    <string name="about_lib_mat">Librerias y materiales</string>
-    <string name="about_licenses_title" translatable="false">Licenses</string>
-    <string name="about_licenses_subtitle" translatable="false">View the materials and libraries used in the project along with their licenses</string>
+
+    <string name="about_lib_mat">Librerías y materiales</string>
+    <string name="about_licenses_title">Licencias</string>
+    <string name="about_licenses_subtitle">Mirá los materiales y librerías usadas en el proyecto junto a sus licencias</string>
     <string name="about_library1_title" translatable="false">Material Components for Android</string>
     <string name="about_library1_subtitle" translatable="false">Copyright 2018-2019 Google \nApache License 2.0</string>
     <string name="about_library1_link" translatable="false">https://github.com/material-components/material-components-android</string>
@@ -102,4 +147,5 @@
     <string name="about_library8_title" translatable="false">TapTargetView</string>
     <string name="about_library8_subtitle" translatable="false">Copyright 2016 Keepsafe Software Inc. \nApache License 2.0</string>
     <string name="about_library8_link" translatable="false">https://github.com/KeepSafe/TapTargetView</string>
+
 </resources>
