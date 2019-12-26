@@ -24,7 +24,7 @@
     <string name="settings_general">Ajustes Generales</string>
     <string name="appearance">Apariencia</string>
     <string name="themes">Tema</string>
-    <string name="effects_title">Efecto de gradienteGradient effect</string>
+    <string name="effects_title">Efecto de gradiente</string>
     <string name="effects_summary">Activa una espectacular gradiente en la pantalla principal</string>
     <string name="animations_title">Animaciones desvanecientes</string>
     <string name="animations_summary">Habilita las animaciones desvanecientes para una suave experiencia</string>
@@ -42,7 +42,7 @@
 
     <string name="filters_title">Filtros</string>
     <string name="filters_applying">Aplicando el filtro&#8230;</string>
-    <string name="filters_gray_scale">Filtro blanco & negro</string>
+    <string name="filters_gray_scale">Filtro blanco y negro</string>
     <string name="filters_bit_offset">Offset filter</string>
 
     <string name="lato" translatable="false">Lato-Regular.ttf</string>
@@ -62,7 +62,7 @@
     <string name="stats_dominant_color3_subtitle">%1$s</string>
     <string name="stats_dominant_color4_title">Color apagado</string>
     <string name="stats_dominant_color4_subtitle">%1$s</string>
-    <string name="stats_dominant_color5_title">Color apagado oscuroDark muted color</string>
+    <string name="stats_dominant_color5_title">Color apagado oscuro</string>
     <string name="stats_dominant_color5_subtitle">%1$s</string>
     <string name="stats_color_error">No Disponible</string>
     <string name="stats_copy_success">Copiado en el portapapeles</string>
