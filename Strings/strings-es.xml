@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">My Wall</string>
+    <string name="welcome">Bienvenido a MyWall</string>
+    <string name="welcome_description">Guarda rapidamente, comparte y obten info sobre tu fondo de pantalla</string>
+    <string name="storage_permission">Permiso de almacenamiento</string>
+    <string name="storage_permission_description">El permiso de almacenamiento es requerido para que la app sea capaz de leer y guardar tu fondo de pantalla y para hacer esta app magica</string>
+    <string name="save">Guardar</string>
+    <string name="share">Compartir</string>
+    <string name="wallpaper_saved">Fondo de pantalla guardado</string>
+    <string name="wallpaper_saved_description">El fondo de pantalla ha sido guardado correctamente</string>
+
+    <string name="tap_intro1">Maneja todo aqui</string>
+    <string name="tap_intro1_extended">Guarda, comparte y obten informacion acerca de tu fondo de pantalla</string>
+    <string name="tap_intro2">Apariencia</string>
+    <string name="tap_intro2_extended">Elige tu tema, efectos y animaciones</string>
+    <string name="tap_intro3">Informacion</string>
+    <string name="tap_intro3_extended">Descubre sobre MyWall y quien lo hizo</string>
+
+    <string name="appearance">Apariencia</string>
+    <string name="themes">Temas</string>
+    <string name="effects">Efectos</string>
+    <string name="effects_title">Gradiente</string>
+    <string name="effects_summary">Habilita una espectacular gradiente en la pantalla principal</string>
+    <string name="animations">Animaciones</string>
+    <string name="animations_title">Animacion de desvanecimiento</string>
+    <string name="animations_summary">Habilita animaciones de desvanecimientopara obtener una suave experiencia</string>
+    <string name="choose_theme">Elige un Tema</string>
+    <string name="light">Claro</string>
+    <string name="dark">Oscuro-</string>
+
+    <string name="stats">Estadisticas</string>
+    <string name="stats_wallpaper">Datos del fondo de pantalla</string>
+    <string name="stats_color">Colores</string>
+    <string name="gaussian_blur">Difuminacion</string>
+    <string name="blur_intensity">Intensidad: 1</string>
+    <string name="blur_intensity2">Intensidad: </string>
+    <string name="stats_dominant_color_title">Color dominante</string>
+    <string name="stats_dominant_color_subtitle" formatted="true">%1$s</string>
+    <string name="stats_dominant_color0_title">Color vibrante claro</string>
+    <string name="stats_dominant_color0_subtitle" formatted="true">Hex</string>
+    <string name="stats_dominant_color1_title">Color vibrante</string>
+    <string name="stats_dominant_color1_subtitle" formatted="true">Hex</string>
+    <string name="stats_dominant_color2_title">Color vibrante oscuro</string>
+    <string name="stats_dominant_color2_subtitle">Hex</string>
+    <string name="stats_dominant_color3_title">Color debil claro</string>
+    <string name="stats_dominant_color3_subtitle">Hex</string>
+    <string name="stats_dominant_color4_title">Color debil</string>
+    <string name="stats_dominant_color4_subtitle">Hex</string>
+    <string name="stats_dominant_color5_title">Color debil oscuro</string>
+    <string name="stats_dominant_color5_subtitle">Hex</string>
+    <string name="stats_color_error">No disponible</string>
+
+    <string name="charts">Graficos</string>
+    <string name="error">"Algo salio mal!"</string>
+    <string name="open_pie_chart_error">Desafortunadamente el grafico circular no esta disponible para este fondo de pantalla.\n\nRazon: MyWall no fue capaz de encontrar suficiente informacion en este fondo de pantalla.</string>
+    <string name="pie_chart">Grafico circular</string>
+    <string name="pie_chart_description">Mira como los colores claros y oscuros estan distribuidos en terminos de pixeles</string>
+
+    <string name="about">Acerca de</string>
+
+       <string name="general_information">Informacion general</string>
+    <string name="about_my_wall_title">Version</string>
+    <string name="support_development">Aporta al desarollo</string>
+    <string name="about_rate_title">Califica</string>
+    <string name="about_rate_subtitle">Cuentale a los otros porque te gusto MyWall</string>
+    <string name="about_bug_title">Reporta errores</string>
+    <string name="about_bug_subtitle">Reporta errores o sugiere nuevas caracteristicas</string>
+    <string name="bug_report_title" translatable="false">MyWall Bug Report</string>
+    <string name="about_author">Autor</string>
+    <string name="about_author_title" translatable="false">Giorgio Cantoni</string>
+    <string name="about_author_subtitle">Soy un estudiante y desarollador de Android. Estoy interesado en el desarollo de aplicaciones para Android y la automatizacion de autos.</string>
+    <string name="about_changelog_new">What\'s new?</string>
+    <string name="about_website_title">Visita el sitio web</string>
+
+    <string name="about_contributors">Contribuidores y traductores</string>
+    <string name="about_contributors1_subtitle">Soy un diseñador grafico de 23 años, creador de videos en YouTube y web que le gusta ser creativo, unico y simple.</string>
+
+    <string name="about_lib_mat">Librerias y materiales</string>
+    <string name="about_licenses_title" translatable="false">Licenses</string>
+    <string name="about_licenses_subtitle" translatable="false">View the materials and libraries used in the project along with their licenses</string>
+    <string name="about_library1_title" translatable="false">Material Components for Android</string>
+    <string name="about_library1_subtitle" translatable="false">Copyright 2018-2019 Google \nApache License 2.0</string>
+    <string name="about_library1_link" translatable="false">https://github.com/material-components/material-components-android</string>
+    <string name="about_library2_title" translatable="false">Google Material Design Icons</string>
+    <string name="about_library2_subtitle" translatable="false">Copyright 2016-2019 Google \nApache License 2.0</string>
+    <string name="about_library2_link" translatable="false">https://github.com/google/material-design-icons</string>
+    <string name="about_library3_title" translatable="false">Lato Font</string>
+    <string name="about_library3_subtitle" translatable="false">Copyright 2010-2019 Łukasz Dziedzic \nSIL Open Font License 1.1</string>
+    <string name="about_library3_link" translatable="false">https://fonts.google.com/specimen/Lato</string>
+    <string name="about_library4_title" translatable="false">MaterialDesign Icons</string>
+    <string name="about_library4_subtitle" translatable="false">Copyright 2014-2019 Material Design Icons \nSIL Open Font License 1.1 </string>
+    <string name="about_library4_link" translatable="false">https://github.com/Templarian/MaterialDesign</string>
+    <string name="about_library5_title" translatable="false">Android Jetpack</string>
+    <string name="about_library5_subtitle" translatable="false">A suite of libraries, tools, and guidance to help developers write high-quality apps easier.</string>
+    <string name="about_library5_link" translatable="false">https://developer.android.com/jetpack</string>
+    <string name="about_library6_title" translatable="false">MPAndroidChart</string>
+    <string name="about_library6_subtitle" translatable="false">Copyright 2019 Philipp Jahoda \nApache License 2.0</string>
+    <string name="about_library6_link" translatable="false">https://github.com/PhilJay/MPAndroidChart</string>
+    <string name="about_library7_title" translatable="false">AppIntro</string>
+    <string name="about_library7_subtitle" translatable="false">Copyright 2019 Paolo Rotolo \nApache License 2.0</string>
+    <string name="about_library7_link" translatable="false">https://github.com/AppIntro/AppIntro</string>
+    <string name="about_library8_title" translatable="false">TapTargetView</string>
+    <string name="about_library8_subtitle" translatable="false">Copyright 2016 Keepsafe Software Inc. \nApache License 2.0</string>
+    <string name="about_library8_link" translatable="false">https://github.com/KeepSafe/TapTargetView</string>
+</resources>
