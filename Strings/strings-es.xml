@@ -24,7 +24,7 @@
     <string name="settings_general">Ajustes Generales</string>
     <string name="appearance">Apariencia</string>
     <string name="themes">Tema</string>
-    <string name="effects_title">Efecto de gradiente</string>
+    <string name="effects_title">Efecto de gradienteGradient effect</string>
     <string name="effects_summary">Activa una espectacular gradiente en la pantalla principal</string>
     <string name="animations_title">Animaciones desvanecientes</string>
     <string name="animations_summary">Habilita las animaciones desvanecientes para una suave experiencia</string>
@@ -42,7 +42,7 @@
 
     <string name="filters_title">Filtros</string>
     <string name="filters_applying">Aplicando el filtro&#8230;</string>
-    <string name="filters_gray_scale">Filtro blanco y negro</string>
+    <string name="filters_gray_scale">Filtro blanco & negro</string>
     <string name="filters_bit_offset">Offset filter</string>
 
     <string name="lato" translatable="false">Lato-Regular.ttf</string>
@@ -75,7 +75,7 @@
     <string name="open_pie_chart_error">Desafortunadamente el gráfico circular no esta disponible para este fondo de pantalla.\n\nRazón: MyWall no fué capáz de encontrar suficiente información en este fondo de pantalla.</string>
     <string name="pie_chart">Gráfico circular</string>
     <string name="pie_chart_description">Mira como los colores claros y oscuros están distribuidos en terminos de pixeles</string>
-    <string name="export_data">Exportár paleta de colores</string>
+    <string name="export_data">Exportar paleta de colores</string>
     <string name="export_data_description">Exporta tu paleta de colores rápidamente en un árchivo .csv</string>
 
     <string name="about">Ácerca</string>
@@ -91,8 +91,8 @@
     <string name="support_development">Ayuda al desarrollo</string>
     <string name="about_rate_title">Califica</string>
     <string name="about_rate_subtitle">Cuéntale a los otros porqué te gustó MyWall</string>
-    <string name="about_bug_title">Reportá errores</string>
-    <string name="about_bug_subtitle">Reporta errores o sugiere nuevas características new features</string>
+    <string name="about_bug_title">Reporta errores</string>
+    <string name="about_bug_subtitle">Reporta errores or sugiere nuevas características new features</string>
     <string name="bug_report_title" translatable="false">MyWall Bug Report</string>
     <string name="about_author">Autór</string>
     <string name="about_author_title" translatable="false">Giorgio Cantoni</string>
