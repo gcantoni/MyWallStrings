@@ -1,19 +1,19 @@
 <resources>
     <string name="app_name">My Wall</string>
     <string name="welcome">Bienvenido a MyWall</string>
-    <string name="welcome_description">Guarda rapidamente, comparte y obten info sobre tu fondo de pantalla</string>
+    <string name="welcome_description">Guarda rapidamente, comparte y obtén info sobre tu fondo de pantalla</string>
     <string name="storage_permission">Permiso de almacenamiento</string>
-    <string name="storage_permission_description">El permiso de almacenamiento es requerido para que la app sea capaz de leer y guardar tu fondo de pantalla y para hacer esta app magica</string>
+    <string name="storage_permission_description">El permiso de almacenamiento es requerido para que la app sea capaz de leer y guardar tu fondo de pantalla y para hacer esta app mágica</string>
     <string name="save">Guardar</string>
-    <string name="share">Compartir</string>
+    <string name="share">Compartír</string>
     <string name="wallpaper_saved">Fondo de pantalla guardado</string>
     <string name="wallpaper_saved_description">El fondo de pantalla ha sido guardado correctamente</string>
 
     <string name="tap_intro1">Maneja todo aqui</string>
-    <string name="tap_intro1_extended">Guarda, comparte y obten informacion acerca de tu fondo de pantalla</string>
+    <string name="tap_intro1_extended">Guarda, comparte y obten información acerca de tu fondo de pantalla</string>
     <string name="tap_intro2">Apariencia</string>
     <string name="tap_intro2_extended">Elige tu tema, efectos y animaciones</string>
-    <string name="tap_intro3">Informacion</string>
+    <string name="tap_intro3">Información</string>
     <string name="tap_intro3_extended">Descubre sobre MyWall y quien lo hizo</string>
 
     <string name="appearance">Apariencia</string>
@@ -23,7 +23,7 @@
     <string name="effects_summary">Habilita una espectacular gradiente en la pantalla principal</string>
     <string name="animations">Animaciones</string>
     <string name="animations_title">Animacion de desvanecimiento</string>
-    <string name="animations_summary">Habilita animaciones de desvanecimientopara obtener una suave experiencia</string>
+    <string name="animations_summary">Habilita animaciones de desvanecimiento para obtener una suave experiencia</string>
     <string name="choose_theme">Elige un Tema</string>
     <string name="light">Claro</string>
     <string name="dark">Oscuro-</string>
@@ -51,24 +51,24 @@
     <string name="stats_color_error">No disponible</string>
 
     <string name="charts">Graficos</string>
-    <string name="error">"Algo salio mal!"</string>
-    <string name="open_pie_chart_error">Desafortunadamente el grafico circular no esta disponible para este fondo de pantalla.\n\nRazon: MyWall no fue capaz de encontrar suficiente informacion en este fondo de pantalla.</string>
+    <string name="error">"Algo salió mal!"</string>
+    <string name="open_pie_chart_error">Desafortunadamente el gráfico circular no esta disponible para este fondo de pantalla.\n\nRazón: MyWall no fue capaz de encontrar suficiente información en este fondo de pantalla.</string>
     <string name="pie_chart">Grafico circular</string>
     <string name="pie_chart_description">Mira como los colores claros y oscuros estan distribuidos en terminos de pixeles</string>
 
     <string name="about">Acerca de</string>
 
-       <string name="general_information">Informacion general</string>
-    <string name="about_my_wall_title">Version</string>
+       <string name="general_information">Información general</string>
+    <string name="about_my_wall_title">Versión</string>
     <string name="support_development">Aporta al desarollo</string>
     <string name="about_rate_title">Califica</string>
-    <string name="about_rate_subtitle">Cuentale a los otros porque te gusto MyWall</string>
+    <string name="about_rate_subtitle">Cuentale a los otros porque te gustó MyWall</string>
     <string name="about_bug_title">Reporta errores</string>
     <string name="about_bug_subtitle">Reporta errores o sugiere nuevas caracteristicas</string>
     <string name="bug_report_title" translatable="false">MyWall Bug Report</string>
-    <string name="about_author">Autor</string>
+    <string name="about_author">Autór</string>
     <string name="about_author_title" translatable="false">Giorgio Cantoni</string>
-    <string name="about_author_subtitle">Soy un estudiante y desarollador de Android. Estoy interesado en el desarollo de aplicaciones para Android y la automatizacion de autos.</string>
+    <string name="about_author_subtitle">Soy un estudiante y desarollador de Android. Estoy interesado en el desarollo de aplicaciones para Android y la automatización de autos.</string>
     <string name="about_changelog_new">What\'s new?</string>
     <string name="about_website_title">Visita el sitio web</string>
 
