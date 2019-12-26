@@ -13,7 +13,7 @@
     <string name="file_name" translatable="false">MyWall</string>
     <string name="notifications">My Wall - Notificaciones</string>
 
-    <string name="tap_intro1">Guarda tu fondo de pantalla rápidamenteQuickly save your wallpaper</string>
+    <string name="tap_intro1">Guarda tu fondo de pantalla rápidamente</string>
     <string name="tap_intro1_extended">Sin gastar tiempo</string>
     <string name="tap_intro2">Ajustes</string>
     <string name="tap_intro2_extended">Elige el tema, efectos, animaciones y mucho más!</string>
