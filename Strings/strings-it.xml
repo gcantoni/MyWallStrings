@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">My Wall</string>
-    <string name="welcome">Benvenuto in MyWall</string>
+    <string name="app_name">Swift Wall</string>
+    <string name="welcome">Benvenuto in Swift Wall</string>
     <string name="welcome_description">Salva, condividi, sfoca rapidamente e ottieni informazioni sul tuo sfondo</string>
     <string name="storage_permission">Permesso d\'archiviazione</string>
     <string name="storage_permission_description">È necessario il permesso d\'archiviazione per poter leggere e salvare lo sfondo e per rendere quest\'app magica</string>
@@ -9,13 +9,13 @@
     <string name="share">Condividi</string>
     <string name="wallpaper_saved">Sfondo salvato</string>
     <string name="wallpaper_saved_description">Lo sfondo è stato salvato correttamente in /Pictures</string>
-    <string name="notifications">My Wall - Notifiche</string>
+    <string name="notifications">Swift Wall - Notifiche</string>
     <string name="tap_intro1">Salva rapidamente il tuo sfondo</string>
     <string name="tap_intro1_extended">Senza perdite di tempo</string>
     <string name="tap_intro2">Impostazioni</string>
     <string name="tap_intro2_extended">Scegli il tema, gli effetti, le animazioni e molto altro</string>
     <string name="tap_intro3">Informazioni</string>
-    <string name="tap_intro3_extended">Scopri di più su MyWall e su chi l\'ha realizzato</string>
+    <string name="tap_intro3_extended">Scopri di più su Swift Wall e su chi l\'ha realizzato</string>
     <string name="settings">Impostazioni</string>
     <string name="settings_general">Impostazioni generali</string>
     <string name="appearance">Aspetto</string>
@@ -63,7 +63,7 @@
     <string name="hex_copied">Esadecimale copiato</string>
     <string name="charts">Grafici e dati</string>
     <string name="error">"Qualcosa è andato storto!"</string>
-    <string name="open_pie_chart_error">Sfortunatamente il grafico a torta non è disponibile per questo sfondo.\n\nMotivo: MyWall non è riuscito a trovare dati sufficienti sullo sfondo.</string>
+    <string name="open_pie_chart_error">Sfortunatamente il grafico a torta non è disponibile per questo sfondo.\n\nMotivo: Swift Wall non è riuscito a trovare dati sufficienti sullo sfondo.</string>
     <string name="pie_chart">Grafico a torta</string>
     <string name="pie_chart_description">Scopri come sono distribuiti i colori chiari e scuri in termini di pixel</string>
     <string name="export_data">Esporta la tavolozza di colori</string>
@@ -77,7 +77,7 @@
     <string name="about_my_wall_title">Versione</string>
     <string name="support_development">Sostieni lo sviluppo</string>
     <string name="about_rate_title">Vota</string>
-    <string name="about_rate_subtitle">Spiega agli altri perché ti è piaciuto MyWall</string>
+    <string name="about_rate_subtitle">Spiega agli altri perché ti è piaciuto Swift Wall</string>
     <string name="about_bug_title">Segnala bug</string>
     <string name="about_bug_subtitle">Segnala bug o suggerisci nuove funzionalità</string>
     <string name="about_author">Autore</string>
@@ -91,4 +91,15 @@
     <string name="about_licenses_title">Licenze</string>
     <string name="about_licenses_subtitle">Visualizza i materiali e le librerie utilizzate nel progetto insieme alle loro licenze</string>
 
+    <string name="dynamic_title">Accento dinamico</string>
+    <string name="dynamic_summary">Usa il colore dominante dello sfondo come colore d\'accento</string>
+    <string name="store">Vetrina</string>
+    <string name="welcome_store">Benvenuto nella vetrina</string>
+    <string name="welcome_store_description">Ho selezionato, per te, una collezione di sfondi esclusivi che si adattano meglio al tuo dispositivo.\n\nTieni presente
+        che gli sfondi disponibili nella vetrina vengono aggiornati frequentemente, quindi non dimenticare di controllare spesso questa sezione in modo da non perdere sfondi unici.
+        \n\nSi consiglia di scaricare gli sfondi con una connessione wifi poiché vengono scaricati con la massima qualità disponibile.</string>
+    <string name="wallpaper_download">Sto scaricando lo sfondo&#8230;</string>
+    <string name="connection_not_available">Nessuna connessione ad internet</string>
+    <string name="connection_not_available_description">Senza una connessione Internet, la vetrina \nnon può essere caricata.\n\nAssicurati di essere connesso a una rete internet.</string>
+    <string name="connection_not_available_retry">Riprova</string>
 </resources>
