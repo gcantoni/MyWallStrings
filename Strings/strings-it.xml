@@ -35,6 +35,7 @@
     <string name="choose_theme">Scegli il tema</string>
     <string name="light">Chiaro</string>
     <string name="dark">Scuro</string>
+    <string name="system_default">Predefinito</string>
     <string name="filters_title">Filtri</string>
     <string name="filters_applying">Sto applicando il filtro&#8230;</string>
     <string name="filters_gray_scale">Filtro grigio</string>
