@@ -1,4 +1,4 @@
-<h1>My Wall - Wallpaper Manager strings files</h1>
+<h1>Swift Wall - Wallpaper Manager strings files</h1>
 
 <h3>How to help translation in your language</h3>
 
