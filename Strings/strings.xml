@@ -39,6 +39,7 @@
     <string name="choose_theme">Choose theme</string>
     <string name="light">Light</string>
     <string name="dark">Dark</string>
+    <string name="system_default">System default</string>
 
     <string name="store">Showcase</string>
     <string name="welcome_store">Welcome to the showcase</string>
