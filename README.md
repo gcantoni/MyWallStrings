@@ -4,7 +4,7 @@
 
 - Download <a href="https://raw.githubusercontent.com/gcantoni/MyWallStrings/master/Strings/strings.xml">strings.xml English file</a> to your computer
 - Translate it in your language but DO NOT change <code>name</code> value
-- Send me the translated xml via email to <a href="mailto:giorgio.canto98@gmail.com">giorgio.canto98@gmail.com</a> with object <b>My Wall - Strings</b>
+- Send me the translated xml via email to <a href="mailto:giorgio.canto98@gmail.com">giorgio.canto98@gmail.com</a> with object <b>Swift Wall - Strings</b>
 
 <h3>Example (in Italian)</h3>
 
