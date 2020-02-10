@@ -4,6 +4,7 @@
     <string name="welcome_description">Quickly save, share, blur and get info about your wallpaper</string>
     <string name="storage_permission">Storage Permission</string>
     <string name="storage_permission_description">Storage permission is required to be able to read and save your wallpaper and to make this app magical</string>
+    <string name="storage_permission_description_recovery">Storage permission is required to be able to use Swift Wall. Make sure permission is granted</string>
     <string name="save">Save</string>
     <string name="share">Share</string>
     <string name="wallpaper_saved">Wallpaper saved</string>
@@ -14,9 +15,11 @@
     <string name="tap_intro1">Quickly save your wallpaper</string>
     <string name="tap_intro1_extended">Without wasting time</string>
     <string name="tap_intro2">Settings</string>
-    <string name="tap_intro2_extended">Choose the theme, effects, animations and much more!</string>
+    <string name="tap_intro2_extended">Choose the theme, effects, animations and much more</string>
     <string name="tap_intro3">Information</string>
     <string name="tap_intro3_extended">Find out more about Swift Wall and who made it</string>
+    <string name="tap_intro4">Showcase</string>
+    <string name="tap_intro4_extended">Discover amazing new wallpapers</string>
 
     <string name="settings">Settings</string>
     <string name="settings_general">General settings</string>
@@ -110,10 +113,12 @@
     <string name="about_author_subtitle">I\'m a student and an Android Developer.\nI\'m interested in Android apps development and cars automation.</string>
     <string name="about_changelog_title" translatable="false">Changelog</string>
     <string name="about_changelog_new">What\'s new?</string>
-    <string name="about_changelog_new1" translatable="false">Themes</string>
+    <string name="about_changelog_new1" translatable="false">Dynamic themes</string>
     <string name="about_changelog_new1_extended" translatable="false">Meeting Android 10, Swift Wall now supports a light and a dark theme. It can be set by you or it can follow the battery saver/system theme.</string>
     <string name="about_changelog_new2" translatable="false">A brand new user interface</string>
-    <string name="about_changelog_new2_extended" translatable="false">Focused on avoiding issues with colors extracted from the wallpaper, the user interface is now static, faster and uses less memory.</string>
+    <string name="about_changelog_new5" translatable="false">Showcase</string>
+    <string name="about_changelog_new5_extended" translatable="false">An exclusive showcase containing amazing wallpapers those are updated frequently.</string>
+    <string name="about_changelog_new2_extended" translatable="false">Focused on avoiding issues with colors extracted from the wallpaper, the user interface is now dynamic, faster and uses less memory.</string>
     <string name="about_changelog_new3" translatable="false">Stats and charts</string>
     <string name="about_changelog_new3_extended" translatable="false">Get the wallpaper colors with the corresponding hexadecimal and plot the distribution of light and dark colors in terms of pixel in a real-time graph.</string>
     <string name="about_changelog_new4" translatable="false">Effects and animations</string>
@@ -159,5 +164,24 @@
     <string name="about_library8_title" translatable="false">TapTargetView</string>
     <string name="about_library8_subtitle" translatable="false">Copyright 2016 Keepsafe Software Inc. \nApache License 2.0</string>
     <string name="about_library8_link" translatable="false">https://github.com/KeepSafe/TapTargetView</string>
+    <string name="about_library9_title" translatable="false">Picasso</string>
+    <string name="about_library9_subtitle" translatable="false">Copyright 2013 Square, Inc. \nApache License 2.0</string>
+    <string name="about_library9_link" translatable="false">https://github.com/square/picasso</string>
+    <string name="about_library11_title" translatable="false">HttpClient for Android</string>
+    <string name="about_library11_subtitle" translatable="false">Copyright 2005-2019 The Apache Software Foundation \nApache License 2.0</string>
+    <string name="about_library11_link" translatable="false">https://hc.apache.org/httpcomponents-client-4.5.x/android-port.html</string>
+    <string name="about_library12_title" translatable="false">Apache Commons IO</string>
+    <string name="about_library12_subtitle" translatable="false">Copyright The Apache Software Foundation \nApache License 2.0</string>
+    <string name="about_library12_link" translatable="false">https://github.com/apache/commons-io</string>
+    <string name="about_library13_title" translatable="false">Firebase</string>
+    <string name="about_library13_subtitle" translatable="false">Copyright Google \nApache License 2.0</string>
+    <string name="about_library13_link" translatable="false">https://firebase.google.com</string>
+    <string name="about_library10_title" translatable="false">Chrome Custom Tabs</string>
+    <string name="about_library10_subtitle" translatable="false">Apache License 2.0</string>
+    <string name="about_library10_link" translatable="false">https://github.com/GoogleChrome/custom-tabs-client</string>
+    <string name="about_library14_title" translatable="false">Snowfall</string>
+    <string name="about_library14_subtitle" translatable="false">Copyright 2016 JetRadar \nApache License 2.0</string>
+    <string name="about_library14_link" translatable="false">https://github.com/JetradarMobile/android-snowfall</string>
+
 
 </resources>
