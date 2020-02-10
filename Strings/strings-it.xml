@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Swift Wall</string>
+     <string name="app_name">Swift Wall</string>
     <string name="welcome">Benvenuto in Swift Wall</string>
     <string name="welcome_description">Salva, condividi, sfoca rapidamente e ottieni informazioni sul tuo sfondo</string>
     <string name="storage_permission">Permesso d\'archiviazione</string>
     <string name="storage_permission_description">È necessario il permesso d\'archiviazione per poter leggere e salvare lo sfondo e per rendere quest\'app magica</string>
+    <string name="storage_permission_description_recovery">Per poter utilizzare Swift Wall è necessario il permesso d\'archiviazione. Assicurarsi che l\'autorizzazione sia concessa</string>
     <string name="save">Salva</string>
     <string name="share">Condividi</string>
     <string name="wallpaper_saved">Sfondo salvato</string>
@@ -16,6 +17,8 @@
     <string name="tap_intro2_extended">Scegli il tema, gli effetti, le animazioni e molto altro</string>
     <string name="tap_intro3">Informazioni</string>
     <string name="tap_intro3_extended">Scopri di più su Swift Wall e su chi l\'ha realizzato</string>
+    <string name="tap_intro4">Vetrina</string>
+    <string name="tap_intro4_extended">Scopri nuovi incredibili sfondi</string>
     <string name="settings">Impostazioni</string>
     <string name="settings_general">Impostazioni generali</string>
     <string name="appearance">Aspetto</string>
