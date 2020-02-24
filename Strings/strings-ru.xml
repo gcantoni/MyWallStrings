@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">Добро пожаловать в Swift Wall</string>
+    <string name="storage_permission">Разрешение на хранение</string>
+    <string name="save">Сохранить</string>
+    <string name="share">Поделиться</string>
+    <string name="wallpaper_saved">Обои сохранены</string>
+    <string name="notifications">Swift Wall - Уведомления</string>
+    <string name="bottom_sheet_description">Функциональности</string>
+    <string name="tap_intro1_extended">Без потерь времени</string>
+    <string name="tap_intro2">Настройки</string>
+    <string name="tap_intro2_extended">Выберите тему, эффекты, анимацию и многое другое</string>
+    <string name="tap_intro3">Информация</string>
+    <string name="tap_intro3_extended">Узнайте больше о Swift Wall и о том, кто это сделал</string>
+    <string name="tap_intro4">Витрина</string>
+    <string name="tap_intro4_extended">Откройте для себя новые удивительные обои</string>
+    <string name="settings">Настройки</string>
+    <string name="settings_general">Общие настройки</string>
+    <string name="appearance">Внешний вид</string>
+    <string name="themes">Тема</string>
+    <string name="effects_title">Эффект градиента</string>
+    <string name="estimation_title">Оценка обоев</string>
+    <string name="gestures_title">Совместимость с жестами</string>
+    <string name="snow_title">Снег</string>
+    <string name="dynamic_title">Динамический акцент</string>
+    <string name="choose_theme">Выберите тему</string>
+    <string name="light">Светлый</string>
+    <string name="dark">Темно</string>
+    <string name="system_default">Дефолт</string>
+    <string name="store">Витрина</string>
+    <string name="welcome_store">Добро пожаловать в витрину</string>
+    <string name="wallpaper_download">Загрузка обоев&#8230;</string>
+    <string name="filters_title">Фильтры</string>
+    <string name="filters_applying">Применение фильтра&#8230;</string>
+    <string name="stats">Статистика</string>
+    <string name="stats_wallpaper">Данные обоев</string>
+    <string name="stats_color">Цвета</string>
+    <string name="stats_dominant_color_title">Доминирующий цвет</string>
+    <string name="stats_dominant_color_subtitle" formatted="true">%1$s</string>
+    <string name="stats_dominant_color0_subtitle" formatted="true">%1$s</string>
+    <string name="stats_dominant_color1_subtitle" formatted="true">%1$s</string>
+    <string name="stats_dominant_color2_subtitle">%1$s</string>
+    <string name="stats_dominant_color3_subtitle">%1$s</string>
+    <string name="stats_dominant_color4_subtitle">%1$s</string>
+    <string name="stats_dominant_color5_subtitle">%1$s</string>
+    <string name="stats_color_error">Недоступен</string>
+    <string name="stats_copy_success">Скопировано в буфер обмена</string>
+    <string name="hex_copied">Шестнадцатеричная копия</string>
+    <string name="charts">Графики и данные</string>
+    <string name="pie_chart">Круговая диаграмма</string>
+    <string name="export_data">Экспорт палитры цветов</string>
+    <string name="about">О программе</string>
+    <string name="blur_intensity">Интенсивность: 1</string>
+    <string name="blur_intensity2">Интенсивность: </string>
+    <string name="general_information">Информация общего характера</string>
+    <string name="about_my_wall_title">Версия</string>
+    <string name="support_development">Поддержка развития</string>
+    <string name="about_author">Автор</string>
+    <string name="about_author_subtitle">Я студент и разработчик Android.\nЯ заинтересован в разработке приложений для Android и автоматизации автомобилей.</string>
+    <string name="about_changelog_new">Что нового?</string>
+    <string name="about_lib_mat">Библиотеки и материалы</string>
+</resources>
