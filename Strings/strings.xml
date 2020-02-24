@@ -12,8 +12,10 @@
     <string name="file_name" translatable="false">SwiftWall</string>
     <string name="notifications">Swift Wall - Notifications</string>
 
-    <string name="tap_intro1">Quickly save your wallpaper</string>
-    <string name="tap_intro1_extended">Without wasting time</string>
+    <string name="bottom_sheet_description">Functions</string>
+
+    <string name="tap_intro1">All just a click away</string>
+    <string name="tap_intro1_extended">Save, share, blur and more</string>
     <string name="tap_intro2">Settings</string>
     <string name="tap_intro2_extended">Choose the theme, effects, animations and much more</string>
     <string name="tap_intro3">Information</string>
@@ -31,7 +33,7 @@
     <string name="animations_summary">Enable fade animations for a smooth experience</string>
     <string name="estimation_title">Wallpaper estimation</string>
     <string name="estimation_summary">Use a wallpaper estimate to reduce the load on memory. Enabling this option can cause possible wallpaper data loss</string>
-    <string name="algorithm_title">Swatch palettes algorithm (β)</string>
+    <string name="algorithm_title">Swatch palettes algorithm</string>
     <string name="algorithm_subtitle">Use a faster and more accurate algorithm to generate the color palette from your wallpaper</string>
     <string name="gestures_title">Compatibility with gestures</string>
     <string name="gestures_subtitle">Avoid unwanted touches caused by system or third-party gestures</string>
@@ -53,6 +55,15 @@
     <string name="connection_not_available">No internet connection</string>
     <string name="connection_not_available_description">Without an internet connection, the showcase \ncannot be loaded.\n\nMake sure you\'re connected to an internet network.</string>
     <string name="connection_not_available_retry">Retry</string>
+
+    <string name="store_category0">Nature</string>
+    <string name="store_category1">City</string>
+    <string name="store_category2">Aerial</string>
+    <string name="store_category3">Textures</string>
+    <string name="store_category4">Life</string>
+    <string name="store_category5">Space</string>
+    <string name="store_category6">Geometry</string>
+    <string name="store_category7">Mix</string>
 
     <string name="filters_title">Filters</string>
     <string name="filters_applying">Applying the filter&#8230;</string>
@@ -100,18 +111,28 @@
 
     <string name="app_link" translatable="false">https://play.google.com/store/apps/details?id=it.folgore95.mywall</string>
     <string name="website_link" translatable="false">https://giorgiocantoni.it/</string>
+    <string name="translations_link" translatable="false">https://github.com/gcantoni/SwiftWallStrings</string>
     <string name="general_information">General information</string>
-    <string name="about_my_wall_title">Version</string>
+    <string name="about_swift_wall_title">Version</string>
     <string name="support_development">Support development</string>
+    <string name="about_translate_title">Translate</string>
+    <string name="about_translate_subtitle">Help me translate the app to your native language</string>
     <string name="about_rate_title">Rate</string>
-    <string name="about_rate_subtitle">Tell others why you have liked Swift Wall</string>
+    <string name="about_rate_subtitle">Love this app? Let me know in the Google Play Store how i can make it even better</string>
     <string name="about_bug_title">Report bugs</string>
-    <string name="about_bug_subtitle">Report bugs or suggest new features</string>
+    <string name="about_bug_subtitle">An unexpected error occurred. Sorry if you found this bug, if it keeps crashing \"Clear app data\" or click to send an email</string>
     <string name="bug_report_title" translatable="false">Swift Wall Bug Report</string>
-    <string name="about_author">Author</string>
+    <string name="about_share_subtitle">Share the app with your friends</string>
+    <string name="about_faq_title">FAQ</string>
+    <string name="about_faq_subtitle">Confused about usage?</string>
+    <string name="about_more">More</string>
+    <string name="members">Members and contributors</string>
+    <string name="made_with">Made with ❤ in Italy</string>
+    <string name="smart_user">A smart user has appeared 😎</string>
     <string name="about_author_title" translatable="false">Giorgio Cantoni</string>
-    <string name="about_author_subtitle">I\'m a student and an Android Developer.\nI\'m interested in Android apps development and cars automation.</string>
+    <string name="about_author_subtitle">\u0020\u0020\u0020\u0020\u0020Lead developer</string>
     <string name="about_changelog_title" translatable="false">Changelog</string>
+    <string name="about_changelog_subtitle">View recent changes</string>
     <string name="about_changelog_new">What\'s new?</string>
     <string name="about_changelog_new1" translatable="false">Dynamic themes</string>
     <string name="about_changelog_new1_extended" translatable="false">Meeting Android 10, Swift Wall now supports a light and a dark theme. It can be set by you or it can follow the battery saver/system theme.</string>
@@ -127,19 +148,19 @@
 
     <string name="about_website_title">Visit website</string>
 
-    <string name="about_contributors">Contributors and translators</string>
-    <string name="about_contributors_subtitle">A list of people who have contributed to development or translations</string>
+    <string name="about_translators">Translators</string>
+    <string name="about_translators_subtitle">The people who translated the app into your native language</string>
     <string name="about_contributors1_title" translatable="false">Max Patchs</string>
-    <string name="about_contributors1_subtitle">User interface development \n\nI\'m a 23 years old graphics designer, web video maker and a youtuber love to be creative, unique and simple.</string>
-    <string name="about_contributors2_title" translatable="false">Ryosuke Takarushi</string>
-    <string name="about_contributors2_subtitle" translatable="false">Spanish translator \n\nAmateur Web Developer working on my spare time. Looking forward to translate some apps and sites.</string>
-    <string name="about_contributors3_title" translatable="false">Char G</string>
-    <string name="about_contributors3_subtitle" translatable="false">English translator \n\nGZR social media</string>
-
+    <string name="about_contributors1_subtitle">Designer</string>
+    <string name="about_translators0_title" translatable="false">Giorgio Cantoni &amp; Char G</string>
+    <string name="about_translators1_title" translatable="false">Ryosuke Takarushi</string>
+    <string name="about_translators2_title" translatable="false">Francois Bechet</string>
+    <string name="about_translators3_title" translatable="false">Muhajaya</string>
+    <string name="about_translators4_title" translatable="false">Sreerag AG</string>
 
     <string name="about_lib_mat">Libraries and materials</string>
     <string name="about_licenses_title">Licenses</string>
-    <string name="about_licenses_subtitle">View the materials and libraries used in the project along with their licenses</string>
+    <string name="about_licenses_subtitle">License details for open source software</string>
     <string name="about_library1_title" translatable="false">Material Components for Android</string>
     <string name="about_library1_subtitle" translatable="false">Copyright 2018-2019 Google \nApache License 2.0</string>
     <string name="about_library1_link" translatable="false">https://github.com/material-components/material-components-android</string>
@@ -182,6 +203,5 @@
     <string name="about_library14_title" translatable="false">Snowfall</string>
     <string name="about_library14_subtitle" translatable="false">Copyright 2016 JetRadar \nApache License 2.0</string>
     <string name="about_library14_link" translatable="false">https://github.com/JetradarMobile/android-snowfall</string>
-
 
 </resources>
